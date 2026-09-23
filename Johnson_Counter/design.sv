@@ -1,4 +1,4 @@
-// Code your design here
+
 module johnsonCounter(
   input logic clk,
   input logic reset,
