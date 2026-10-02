@@ -15,5 +15,5 @@ A normal 4-bit binary counter has 16 possible states:
 ```text
 0000 → 0001 → 0010 → ... → 1111
   0      1      2            15
-
+```
 https://www.edaplayground.com/x/f2WN
