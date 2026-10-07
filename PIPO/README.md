@@ -37,3 +37,5 @@ This can be expressed compactly as:
 Q <= D
 
 On every active clock edge, the entire 4-bit input is captured simultaneously.
+
+https://www.edaplayground.com/x/BuZ5
