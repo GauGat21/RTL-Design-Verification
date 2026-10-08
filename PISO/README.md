@@ -42,3 +42,5 @@ load = 0 → Shift
 Parallel Load
 When load = 1:
 Q <= parallel_in
+
+https://www.edaplayground.com/x/w9QS
