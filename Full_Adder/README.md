@@ -25,7 +25,7 @@ against an arithmetic reference model.
 All eight combinations of A, B, and CIN are tested.
 
 ## EDA Playground
-[Add your simulation link here]
+https://www.edaplayground.com/x/URq2
 
 ## Key Takeaways
 - Understood carry-in and carry-out behavior.
