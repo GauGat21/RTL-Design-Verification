@@ -35,7 +35,7 @@ arithmetic reference model.
 - All possible combinations of both operands and CIN
 
 ## EDA Playground
-[Add your simulation link here]
+https://www.edaplayground.com/x/ZrDy
 
 ## Key Takeaways
 - Understood structural RTL design.
